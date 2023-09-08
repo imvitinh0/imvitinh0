@@ -1,8 +1,48 @@
-<p align="center">
-<img src="https://64.media.tumblr.com/e1c5da7500447ac51ab1661819d6f4b2/1a4296433cef4166-8b/s1280x1920/b8361cd88301da5372f86efff22d950c16dbed9b.gif" >
 
- 00:10:04 up  3:42,  1 user,  load average: 1,50, 2,04, 1,93
- 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=700&color=red&width=435&lines=imvitinho@h3ll:~$%20xxd%20-g%20-p%20Po3m.exe)](https://git.io/typing-svg)
+<div align="left">
+  <h1>📝 About me 📝</h1>
+  <br>
+  <p align="left">Hello! I'm vitinho. I'm a student and a programming aspirant, one of my hobbies. Currently, I'm not very experienced, but I'm trying hard to learn more and more! Ah, and I would love to share knowledge, so if you're interested, I'm at hand</p>
+  <br>
+  <img heigth="640" width="360" src="https://64.media.tumblr.com/99e864db78392677a64d1ec8071141f5/17f871f724b8af07-bc/s1280x1920/e1e3ec85038300e9bc3d1e75acd179115f30c462.gifv" alt="Niko" align="left"  title="Niko :)">
+  <br>
+  <li>
+    <b>💡 Name: </b> im vitinho
+  </li>
+  <li>
+    <b>🌐 Nationality: </b> Rússia Moscow City
+  </li>
+  <li>
+    <b>🎯 Hobbies: </b> programming, playing games, playing instruments and dance
+  </li>
+  <li>
+    <b>⭐ Favorite things: </b> OneShot, AJR, math, song, dance, and a good cup of coffee
+   
+  </li>
+  <br>
+</div>
 
-```hex
+<div align="right">
+  <h1>⚙️ Programming experience ⚙️</h1>
+  <a href="https://discord.js.org" target="_blank">
+    <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" title="Discord.js">
+  </a>
+  <a href="https://nodejs.org/en" target="_blank">
+    <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title="Node.js">
+  </a>
+  <a href="https://www.mysql.com" target="_blank">
+    <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  title="MySql">
+  </a>
+  <a href="https://www.java.com/pt-BR/" target="_blank">
+    <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java">
+  </a>
+  <a href="https://html.spec.whatwg.org/multipage/" target="_blank">
+    <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="Html 5">
+  </a>
+  <a href="https://www.w3.org/Style/CSS/Overview.en.html" target="_blank">
+    <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="Css 3">
+  </a>
+  <a href="https://www.javascript.com" target="_blank">
+    <img heigth="60" width="60" vspace="5" hspace="5" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript">
+  </a>
+</div>
