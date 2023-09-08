@@ -6,4 +6,3 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=700&color=red&width=435&lines=imvitinho@h3ll:~$%20xxd%20-g%20-p%20Po3m.exe)](https://git.io/typing-svg)
 
 ```hex
-
